@@ -1,3 +1,4 @@
+转载大神的中文提示词指南
 # 🧠ChatGPT 中文调教指南
 
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=plexpt.chatgpt&left_color=blue&right_color=green)
